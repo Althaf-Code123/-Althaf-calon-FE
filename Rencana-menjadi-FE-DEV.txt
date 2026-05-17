@@ -6,5 +6,8 @@ Rencana Menjadi Front End Dev:
 -Pahami konteks dan cara penggunaan Git dan Github.
 
 -Jelajahi dunia framework untuk memudahkan membuat tampilan web
+Html (React)
+CSS (Tailwind)
+JS (Vue)
 
 - Belajar cara membuat tampilan yang interaktif dan User Friendly
