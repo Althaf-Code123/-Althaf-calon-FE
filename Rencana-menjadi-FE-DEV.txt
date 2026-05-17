@@ -1,4 +1,6 @@
 Rencana Menjadi Front End Dev:
 
 -Pahami Dasar-dasar bahasa pemograman untuk pembuatan tampilan web 
- (Html, CSS, Java Script)
+ (Html, CSS, Java Script).
+
+-Pahami konteks dan cara penggunaan Git dan Github.
