@@ -4,6 +4,7 @@ Rencana Menjadi Front End Dev:
  (Html, CSS, Java Script).
 
 -Pahami konteks dan cara penggunaan Git dan Github.
+Branch, Merge, Dll.
 
 -Jelajahi dunia framework untuk memudahkan membuat tampilan web
 Html (React)
