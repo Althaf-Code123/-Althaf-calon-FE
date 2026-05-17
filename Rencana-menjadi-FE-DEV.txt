@@ -4,3 +4,4 @@ Rencana Menjadi Front End Dev:
  (Html, CSS, Java Script).
 
 -Pahami konteks dan cara penggunaan Git dan Github.
+-Jelajahi dubia framework untuk memudahkan membuat tampilan web
